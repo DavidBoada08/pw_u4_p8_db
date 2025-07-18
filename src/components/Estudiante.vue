@@ -46,7 +46,7 @@ export default {
     async borrar() {
       const estudianteToBody = {
       };
-      await borrarFacahada(7);
+      await borrarFacahada(8);
     },
   },
 };
